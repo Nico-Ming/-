@@ -4,22 +4,22 @@
 
 | 技术栈        | 在线地址   |  
 | :--------  | :-----  |
-| Vue| [https://cn.vuejs.org/guide/introduction.html](https://cn.vuejs.org/guide/introduction.html) 
-| React | [https://react.dev/](https://react.dev/)
-| Ant Design | [https://ant.design/components/button-cn](https://ant.design/components/button-cn) 
-|Svelte|[ Svelte ](https://svelte.dev/docs)
-|Qwik|[ Qwik ](https://qwik.builder.io/docs/overview/)
-|Astro|[ Astro ](https://astro.build/)
-|[ Solid ]|[ Solid ](https://www.solidjs.com/)
-|[ Vite ]|[ Vite ](https://cn.vitejs.dev/guide/)
-|[ Rollup ]|[ Rollup ](https://rollupjs.org/introduction/)
-|[ esbuild ]|[ esbuild ](https://esbuild.github.io/)
-|[ webpack ]|[ webpack ](https://webpack.js.org/concepts/)
-|[ TailwindCSS ]|[ TailwindCSS ](https://tailwindcss.com/)
-|[ UnoCSS ]|[ UnoCSS ](https://github.com/unocss/unocss)
-|[ LeetCode ]|[ LeetCode ](https://leetcode.cn/problemset/all/)
-|[ Nuxt ]|[ Nuxt ](https://nuxt.com/)
-|[ Bun ]|[ Bun ](https://bun.sh/docs)
+| Vue| [Vue](https://cn.vuejs.org/guide/introduction.html) 
+| React | [React](https://react.dev/)
+| Ant Design | [Ant Design](https://ant.design/components/button-cn) 
+| Svelte |[ Svelte ](https://svelte.dev/docs)
+| Qwik |[ Qwik ](https://qwik.builder.io/docs/overview/)
+| Astro |[ Astro ](https://astro.build/)
+| Solid |[ Solid ](https://www.solidjs.com/)
+| Vite |[ Vite ](https://cn.vitejs.dev/guide/)
+| Rollup |[ Rollup ](https://rollupjs.org/introduction/)
+| esbuild |[ esbuild ](https://esbuild.github.io/)
+| webpack |[ webpack ](https://webpack.js.org/concepts/)
+| TailwindCSS |[ TailwindCSS ](https://tailwindcss.com/)
+| UnoCSS |[ UnoCSS ](https://github.com/unocss/unocss)
+| LeetCode |[ LeetCode ](https://leetcode.cn/problemset/all/)
+| Nuxt |[ Nuxt ](https://nuxt.com/)
+| Bun |[ Bun ](https://bun.sh/docs)
 
 ## 技术站点
 
@@ -153,3 +153,28 @@
 |[component-party](https://component-party.lainbo.com/)|前端框架语法比较
 |[Node Toolbox](https://nodejstoolbox.com/)|查找Node生态下各分类最流行的代码库
 |[fly](https://xn--4gq62f52gdss.com/#/subscribe)|飞跃重洋
+
+## AI-编辑器
+
+| 站点        | 描述   |
+| :--------  | :-----  |
+|[Cursor编辑器](https://www.cursor.so/)|一个可以免openAI账号直接使用chatGPT-4的编辑器
+|[CodeCursor](https://github.com/Helixform/CodeCursor)|vs code里的cursor扩展，不再需要下载cursor编辑器了
+|[codeium多](https://codeium.com/)|种编辑器扩展，包括vscode和webstorm，集成AI功能，只需要注册个codeium账号，无须openAI账号
+
+## AI-绘画
+
+| 站点        | 描述   |
+| :--------  | :-----  |
+|[diffusionbee](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)|stable-diffusion模型本地运行
+|[lexica](https://lexica.art/)|The Stable Diffusion search engine
+|[pixelicious](https://www.pixelicious.xyz/)|把图像转为像素风格，适用于游戏开发
+
+## AI-工具
+
+| 站点        | 描述   |
+| :--------  | :-----  |
+|[carrot](https://github.com/xx025/carrot)|这儿为你准备了无数个免费好用的ChatGPT镜像站点
+|[phind](https://www.phind.com/)|面向开发者的AI搜索引擎
+
+
